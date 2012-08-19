@@ -1,0 +1,1 @@
+These are patches for use in Resolume Avenue. They are either patches which I have created myself, or found online (a number of modified glsl samples.) All attributions should be in place within the files themselves.
